@@ -1,0 +1,11 @@
+body{
+    background-color: goldenrod;
+    padding: 30px;
+    margin: 30px;
+}
+
+button{
+    margin-right: 5px;
+    background-color: indianred;
+    color: black;
+}
